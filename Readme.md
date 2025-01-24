@@ -21,7 +21,7 @@ A Python GUI application that analyzes and visualizes JoSAA counseling data for 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/josaa-analyzer.git
+    https://github.com/rakshverma/JEE_COLLEGE_PREDICTOR.git
     ```
 
 2. Install required packages:
